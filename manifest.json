@@ -286,6 +286,11 @@
       "sha256": "069d5dffa4060d965899e607fad725c4d80a8086cef64f1d7563259b0a070633"
     },
     {
+      "file": "immersivehotbar-1.2.2-forge-1.20.1-all.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/immersivehotbar-1.2.2-forge-1.20.1-all.jar",
+      "sha256": "6a914777f33af72ff29a15fb717a5affd8edb1ba08078f6bc6fe79b7bffa0b40"
+    },
+    {
       "file": "immersivelanterns-forge-1.0.6-1.20.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/immersivelanterns-forge-1.0.6-1.20.1.jar",
       "sha256": "a05339dde22dbb188ee79f634c4737667a983474580208010cf14ea9a74a414d"
