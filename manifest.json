@@ -96,6 +96,11 @@
       "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
     },
     {
+      "file": "cleanswing-1.20-1.8.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/cleanswing-1.20-1.8.jar",
+      "sha256": "beb67f1af48b8ba77a8de1a48ea08d97a520a32b490bb4fd9a0da1dfd485a699"
+    },
+    {
       "file": "cloth-config-11.1.136-forge.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/cloth-config-11.1.136-forge.jar",
       "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
@@ -251,6 +256,11 @@
       "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b"
     },
     {
+      "file": "ghost_villager-forge-1.0.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/ghost_villager-forge-1.0.0%2B1.20.1.jar",
+      "sha256": "be9a0879f4afcf09dce14a4dfc39fd02f958e206ade630b3b518cb58002fafa1"
+    },
+    {
       "file": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
       "sha256": "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
@@ -374,6 +384,11 @@
       "file": "mezz_config-1.20.1-forge-0.6.8.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mezz_config-1.20.1-forge-0.6.8.jar",
       "sha256": "93d04b64ed5120350aed8a6d25efe5703fdbc720c233d7da3274feafd076c7e1"
+    },
+    {
+      "file": "minevegas-casino-neoforge-1.20.1-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/minevegas-casino-neoforge-1.20.1-1.0.4.jar",
+      "sha256": "b1ed70ae21bbe9fe594a540490c46927154a0ab65b3ba47c5d75785697236c8c"
     },
     {
       "file": "moonlight-1.20-2.16.37-forge.jar",
