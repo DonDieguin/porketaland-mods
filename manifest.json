@@ -191,6 +191,11 @@
       "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
     },
     {
+      "file": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "sha256": "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
+    },
+    {
       "file": "explosiveenhancement-1.2.0.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/explosiveenhancement-1.2.0.jar",
       "sha256": "aea3fd8c2b2b8cbcf522ae47d392af67d3f60ded48d4ebf0270e2a99f85b431a"
@@ -371,6 +376,11 @@
       "sha256": "1ecec17ab38eee520fa9a3f3f7ae363fe71466d87c792dc4138194bbc27e9de5"
     },
     {
+      "file": "MagnumTorch-v8.0.2-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar",
+      "sha256": "fa9df7fad29f50da46d5852d0ad06a0215d910ad2050da64b0996342a4489c63"
+    },
+    {
       "file": "mc2_interactivefoliage-2.2.1-forge+1.20.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mc2_interactivefoliage-2.2.1-forge%2B1.20.1.jar",
       "sha256": "fe6a61b1262d2cb9458b6f65b193199f6e073edd83aadfa3787240125b553d2d"
@@ -479,6 +489,11 @@
       "file": "ShoulderSurfing-Forge-1.20.1-5.2.0.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/ShoulderSurfing-Forge-1.20.1-5.2.0.jar",
       "sha256": "4936d637a70fbb24fc6866da84f711c8e37fa787ba787f8f0548eca50073a8d0"
+    },
+    {
+      "file": "simpleshops-1.2.2.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/simpleshops-1.2.2.jar",
+      "sha256": "2afb0026e34601f1da9d0a11ddea41a63de69df110d9a3d0ada0523a33f9eeb2"
     },
     {
       "file": "simplylight-1.20.1-1.4.6-build.50.jar",
