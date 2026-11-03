@@ -221,6 +221,11 @@
       "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce"
     },
     {
+      "file": "fastconfigapi-2.1.2.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/fastconfigapi-2.1.2.jar",
+      "sha256": "fa985f4785293e54a84920f5193b693b57c51fcdb64579e8e177fd3d45ee8546"
+    },
+    {
       "file": "ftb-chunks-forge-2001.3.8.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/ftb-chunks-forge-2001.3.8.jar",
       "sha256": "783f7aa42089b6f72500801284796f7cc8eb641ecddcf76f65bf586c017efb02"
