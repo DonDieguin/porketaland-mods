@@ -221,11 +221,6 @@
       "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce"
     },
     {
-      "file": "fastconfigapi-2.1.2.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/fastconfigapi-2.1.2.jar",
-      "sha256": "fa985f4785293e54a84920f5193b693b57c51fcdb64579e8e177fd3d45ee8546"
-    },
-    {
       "file": "ftb-chunks-forge-2001.3.8.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/ftb-chunks-forge-2001.3.8.jar",
       "sha256": "783f7aa42089b6f72500801284796f7cc8eb641ecddcf76f65bf586c017efb02"
@@ -624,21 +619,6 @@
       "file": "wakes-1.20.1-Forge-1.4.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/wakes-1.20.1-Forge-1.4.1.jar",
       "sha256": "37fd9c1a18b92d322ca79bda97b486c760e7a27bf46ba3d74506ec2a817bae52"
-    },
-    {
-      "file": "waterframes-FORGE-mc1.20.1-v2.2.0-beta.6.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/waterframes-FORGE-mc1.20.1-v2.2.0-beta.6.jar",
-      "sha256": "f9f64428acaf1f0a06f8cd0f77e488f3ee9a1f06777f44ca35706f2bafcc3d8f"
-    },
-    {
-      "file": "watermedia-3.0.0.23.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/watermedia-3.0.0.23.jar",
-      "sha256": "23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a"
-    },
-    {
-      "file": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
-      "sha256": "c04fb6d0996061c2e9d03efd2dd8eea6434355dfcb9618670bd52d632e00b90b"
     },
     {
       "file": "waystones-forge-1.20.1-14.1.21.jar",
