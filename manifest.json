@@ -86,6 +86,16 @@
       "sha256": "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613"
     },
     {
+      "file": "catfighting-forge-1.20.1-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/catfighting-forge-1.20.1-1.2.0.jar",
+      "sha256": "a5151b5f51cdc236fdc8342dba4aca31603114e960769707d8e176fe575ae7b5"
+    },
+    {
+      "file": "christmasfestivity-1.20.1-1.6.3-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/christmasfestivity-1.20.1-1.6.3-forge.jar",
+      "sha256": "b7fc1749af768da86798285d8a52218818756904bc425e98fd8d3187ccb67421"
+    },
+    {
       "file": "cinematic_respawn-1.20.1-forge-1.4.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/cinematic_respawn-1.20.1-forge-1.4.1.jar",
       "sha256": "6ef1e2e917fcb834953690a51ba69ac628cfa3cf73ecee24387bb381c53f5f25"
@@ -164,6 +174,11 @@
       "file": "dawnoftimebuilder-forge-1.20.1-1.5.54.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/dawnoftimebuilder-forge-1.20.1-1.5.54.jar",
       "sha256": "73e41254edfb0bed589920185eaee7270e12e0905642a473fee4ab5790c9afdf"
+    },
+    {
+      "file": "diegesis-forge-1.20.1-1.0.0-beta.7.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/diegesis-forge-1.20.1-1.0.0-beta.7.jar",
+      "sha256": "08121a8b6c388d020590b863c5011850c976759f9f1245ee3aebc3d4999fc1c3"
     },
     {
       "file": "DungeonsArise-1.20.x-2.1.58-release.jar",
@@ -296,6 +311,11 @@
       "sha256": "1da3c7c524bfb656bb370757af55f08f1678e8e1cb934e1c4c04aa773ed64a79"
     },
     {
+      "file": "handson_delight-forge-1.20.1-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/handson_delight-forge-1.20.1-1.3.0.jar",
+      "sha256": "1add518489ce7b0b8fd7cf8cf403d0fae5a821ce5ff3cdaaa81338b43cd4c7b7"
+    },
+    {
       "file": "Iceberg-1.20.1-forge-1.1.25.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/Iceberg-1.20.1-forge-1.1.25.jar",
       "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3"
@@ -396,6 +416,11 @@
       "sha256": "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed"
     },
     {
+      "file": "mcw-holidays-1.1.2-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mcw-holidays-1.1.2-mc1.20.1forge.jar",
+      "sha256": "47f33b62170b45a8a4195f83b50e9df468f65027c7e309fc583e9acaeae844cc"
+    },
+    {
       "file": "mezz_config-1.20.1-forge-0.6.8.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mezz_config-1.20.1-forge-0.6.8.jar",
       "sha256": "93d04b64ed5120350aed8a6d25efe5703fdbc720c233d7da3274feafd076c7e1"
@@ -436,6 +461,11 @@
       "sha256": "3528e4d424682a415ae97b9597e5ed0567e5a194b4aeb30ae364e962da43b36a"
     },
     {
+      "file": "particlerain-4.0.3-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/particlerain-4.0.3-1.20.1-forge.jar",
+      "sha256": "44bc0ab3ed373fe0d004b4457d09f91137d01ca6f8c195a5f530cb48064cb14f"
+    },
+    {
       "file": "Patchouli-1.20.1-85-FORGE.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/Patchouli-1.20.1-85-FORGE.jar",
       "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
@@ -454,6 +484,11 @@
       "file": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
       "sha256": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
+    },
+    {
+      "file": "pooltable-forge-1.20.1-1.7.0.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/pooltable-forge-1.20.1-1.7.0.jar",
+      "sha256": "bcb113b289384bd8ee71e19f5ddc4e4a2c2c5a34a56e4c17b887fcf37f41823f"
     },
     {
       "file": "PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
@@ -624,6 +659,11 @@
       "file": "weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
       "sha256": "da63af14bd71b0be80376ed5ccc4e3669214e0e8baa5c7c1bbfa83d567513e9a"
+    },
+    {
+      "file": "weatherglass-0.6.0-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/weatherglass-0.6.0-1.20.1-forge.jar",
+      "sha256": "9967093a90738c122471d3397a5c916e2284f1384e8e31b3b9151d965fe4ecf6"
     },
     {
       "file": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
