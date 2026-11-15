@@ -271,6 +271,11 @@
       "sha256": "a490f1435f8eccec0a4d354184d37d4ddbcf9e048c805261e86f2008e6ca2e3f"
     },
     {
+      "file": "gallosfigth-1.0.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/gallosfigth-1.0.jar",
+      "sha256": "bfa7dcfd0a08dac751b30895853fe9e7d2e4425f9da950dec4d9cbb241be2b3d"
+    },
+    {
       "file": "gardentrails-forge-1.20.1-0.1.14.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/gardentrails-forge-1.20.1-0.1.14.jar",
       "sha256": "6c1502e7a5f752eb07aa1b9bd409512142e95012ff569128625f9b142f5d0849"
@@ -389,6 +394,16 @@
       "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
       "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+    },
+    {
+      "file": "letsdo-API-forge-1.2.15-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/letsdo-API-forge-1.2.15-forge.jar",
+      "sha256": "d08b99df112cfffb46e289635c79d4ac8397223320abd6469b47e202e23fa28c"
+    },
+    {
+      "file": "letsdo-brewery-forge-1.1.9.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/letsdo-brewery-forge-1.1.9.jar",
+      "sha256": "f889cf1258b6365873b83fb3e533e9a58da4ee381377e55d58f13a4b3cfb4840"
     },
     {
       "file": "libtooltips-2.3.2-FORGE-1.20.1.jar",
