@@ -561,11 +561,6 @@
       "sha256": "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
     },
     {
-      "file": "sittingplus-2.0.5-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/sittingplus-2.0.5-1.20.1.jar",
-      "sha256": "c9b15d83356e2ef738fce5498fc4ad9a33504ba80a608cd089c343dd5a43ec12"
-    },
-    {
       "file": "smallships-2.0.2-forge-1.20.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/smallships-2.0.2-forge-1.20.1.jar",
       "sha256": "9296279c692e424bbd358bc37170708828ddb4c4f683a2074b5e9dfa867d13c8"
