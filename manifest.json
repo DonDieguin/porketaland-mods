@@ -431,9 +431,19 @@
       "sha256": "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed"
     },
     {
+      "file": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "sha256": "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af"
+    },
+    {
       "file": "mcw-holidays-1.1.2-mc1.20.1forge.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mcw-holidays-1.1.2-mc1.20.1forge.jar",
       "sha256": "47f33b62170b45a8a4195f83b50e9df468f65027c7e309fc583e9acaeae844cc"
+    },
+    {
+      "file": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "sha256": "7674d829d5a38d91ca68061e087fded92e976e3e461edcf75117e37a257e8f10"
     },
     {
       "file": "mezz_config-1.20.1-forge-0.6.8.jar",
@@ -559,6 +569,11 @@
       "file": "simplylight-1.20.1-1.4.6-build.50.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/simplylight-1.20.1-1.4.6-build.50.jar",
       "sha256": "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
+    },
+    {
+      "file": "skinrestorer-2.11.1-1.20-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/skinrestorer-2.11.1-1.20-forge.jar",
+      "sha256": "4388fdf3c2f2597cea3cde483164f389ce9701a4f27aac760f0e4e5a663038fc"
     },
     {
       "file": "smallships-2.0.2-forge-1.20.1.jar",
