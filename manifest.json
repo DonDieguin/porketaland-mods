@@ -241,6 +241,11 @@
       "sha256": "fa985f4785293e54a84920f5193b693b57c51fcdb64579e8e177fd3d45ee8546"
     },
     {
+      "file": "framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
+    },
+    {
       "file": "ftb-chunks-forge-2001.3.8.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/ftb-chunks-forge-2001.3.8.jar",
       "sha256": "783f7aa42089b6f72500801284796f7cc8eb641ecddcf76f65bf586c017efb02"
@@ -324,6 +329,16 @@
       "file": "Iceberg-1.20.1-forge-1.1.25.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/Iceberg-1.20.1-forge-1.1.25.jar",
       "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3"
+    },
+    {
+      "file": "immersive_aircraft-1.5.0+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/immersive_aircraft-1.5.0%2B1.20.1-forge.jar",
+      "sha256": "7e00754f893d910f301134e0cada37dde0be36c8df15ebf98a5b6512fa664077"
+    },
+    {
+      "file": "immersive_machinery-0.2.1+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/immersive_machinery-0.2.1%2B1.20.1-forge.jar",
+      "sha256": "4e87e310bec609441befa1e8d7d80eed787ca8be69d3cefca5881f9046892f86"
     },
     {
       "file": "immersive_paintings-0.6.13+1.20.1-forge.jar",
@@ -449,6 +464,11 @@
       "file": "mezz_config-1.20.1-forge-0.6.8.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mezz_config-1.20.1-forge-0.6.8.jar",
       "sha256": "93d04b64ed5120350aed8a6d25efe5703fdbc720c233d7da3274feafd076c7e1"
+    },
+    {
+      "file": "mighty_mail-forge-1.20.1-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/mighty_mail-forge-1.20.1-1.1.4.jar",
+      "sha256": "250ae934ebbed9b7fc71bea4856196e48b0e65213d4ef3bcfcd107736a328a7d"
     },
     {
       "file": "minevegas-casino-neoforge-1.20.1-1.0.4.jar",
