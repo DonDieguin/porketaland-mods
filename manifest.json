@@ -146,6 +146,11 @@
       "sha256": "cb8fb2c4bf8d1b0072426ddc49bb2e3f315a0d46f47fc16d3cd2f24b2540145e"
     },
     {
+      "file": "create-1.20.1-6.0.8.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/create-1.20.1-6.0.8.jar",
+      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
+    },
+    {
       "file": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
       "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4"
@@ -169,6 +174,11 @@
       "file": "CustomSkinLoader_Universal-15.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/CustomSkinLoader_Universal-15.1.jar",
       "sha256": "c8769a38b3cc1da2a7b2f5827d1a53a24cd1ef6d0784b1eb545569f5882a2ffb"
+    },
+    {
+      "file": "cutecats-forge-1.20.1-.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/cutecats-forge-1.20.1-.jar",
+      "sha256": "96f607ab6994a422d3481b4d77e18f5d63222b5ae7a3e0617a5a1099eb5a5e79"
     },
     {
       "file": "dawnoftimebuilder-forge-1.20.1-1.5.54.jar",
@@ -531,6 +541,11 @@
       "sha256": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
     },
     {
+      "file": "pointblank-forge-1.20.1-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/pointblank-forge-1.20.1-2.2.0.jar",
+      "sha256": "1ccb60a61e904ac9dd4ea35b0fed087aa6b9d915dc7722b1acc3a48cba48639f"
+    },
+    {
       "file": "pooltable-forge-1.20.1-1.7.0.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/pooltable-forge-1.20.1-1.7.0.jar",
       "sha256": "bcb113b289384bd8ee71e19f5ddc4e4a2c2c5a34a56e4c17b887fcf37f41823f"
@@ -549,6 +564,11 @@
       "file": "reddens_stone_lanterns_1.0.3-forge1.20.1.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/reddens_stone_lanterns_1.0.3-forge1.20.1.jar",
       "sha256": "e38e66efedbc6c92228ffb8d9c2b5ae5441847fbea55c984e3b723906dc901c9"
+    },
+    {
+      "file": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "sha256": "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
     },
     {
       "file": "resourcefullib-forge-1.20.1-2.1.29.jar",
