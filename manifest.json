@@ -526,6 +526,11 @@
       "sha256": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
     },
     {
+      "file": "pointblank-forge-1.20.1-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/pointblank-forge-1.20.1-2.2.0.jar",
+      "sha256": "1ccb60a61e904ac9dd4ea35b0fed087aa6b9d915dc7722b1acc3a48cba48639f"
+    },
+    {
       "file": "pooltable-forge-1.20.1-1.7.0.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/pooltable-forge-1.20.1-1.7.0.jar",
       "sha256": "bcb113b289384bd8ee71e19f5ddc4e4a2c2c5a34a56e4c17b887fcf37f41823f"
