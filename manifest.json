@@ -161,11 +161,6 @@
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
     },
     {
-      "file": "CustomSkinLoader_Universal-15.1.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/CustomSkinLoader_Universal-15.1.jar",
-      "sha256": "c8769a38b3cc1da2a7b2f5827d1a53a24cd1ef6d0784b1eb545569f5882a2ffb"
-    },
-    {
       "file": "cutecats-forge-1.20.1-.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/cutecats-forge-1.20.1-.jar",
       "sha256": "96f607ab6994a422d3481b4d77e18f5d63222b5ae7a3e0617a5a1099eb5a5e79"
