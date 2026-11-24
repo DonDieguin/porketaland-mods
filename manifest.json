@@ -1,11 +1,6 @@
 {
   "mods": [
     {
-      "file": "accessories-neoforge-1.0.0-beta.49+1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/accessories-neoforge-1.0.0-beta.49%2B1.20.1.jar",
-      "sha256": "998b1f4c7e2b86a3c2b5d7824addcfe6b6b2dbd2efc7debc706a8bf9646aca77"
-    },
-    {
       "file": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
       "sha256": "537f84f1153369d61878965846a8ead7c5eae3a6ad917b04c02521ad76182ad2"
@@ -144,11 +139,6 @@
       "file": "craft_of_the_wild-forge-1.20.1-1.0.1-beta.jar",
       "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/craft_of_the_wild-forge-1.20.1-1.0.1-beta.jar",
       "sha256": "cb8fb2c4bf8d1b0072426ddc49bb2e3f315a0d46f47fc16d3cd2f24b2540145e"
-    },
-    {
-      "file": "create-1.20.1-6.0.8.jar",
-      "url": "https://raw.githubusercontent.com/DonDieguin/porketaland-mods/main/mods/create-1.20.1-6.0.8.jar",
-      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
     },
     {
       "file": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
